@@ -12,7 +12,7 @@ ykey/container - PHP DI Container Library
 {
   "repositories": [{
     "url": "https://github.com/ykeyjp/php-container.git",
-    "type": "git"
+    "type": "vcs"
   }],
   "require": {
     "ykey/container": "*"
